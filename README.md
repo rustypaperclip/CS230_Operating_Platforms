@@ -24,4 +24,3 @@ CS230 Module 8 repo
 •	How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
   
   o	Initially I hadn’t put much thought into designing software before jumping in; focusing more on a rapid prototype approach instead of a planful execution. In the future I’ll map out everything using a UML diagram and an architecture comparison chart similar to what was in the template.
-<img width="468" height="623" alt="image" src="https://github.com/user-attachments/assets/b6830357-5abb-4d2a-a420-76db2c42dded" />
